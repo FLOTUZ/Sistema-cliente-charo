@@ -76,6 +76,7 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => '20.106.152.235',
+	'port' => '3307',
 	'username' => 'admin',
 	'password' => 'sintezoide',
 	'database' => 'amiko',
