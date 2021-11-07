@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'sigacliente'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A33FEE03053243CD93E67BE12A09E83F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_353E9252B9DF433FB925A2205983B33B }}
           package: .
