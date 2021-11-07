@@ -75,8 +75,8 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
+	'hostname' => '20.106.152.235',
+	'username' => 'admin',
 	'password' => '',
 	'database' => 'amiko',
 	'dbdriver' => 'mysqli',
